@@ -1,11 +1,11 @@
 Hi 👋 My name is Babek
 ======================
 
-Front End Developer
+Software developer
 -------------------
 
 *   🌍  I'm based in Azerbaijan
-*   ✉️  You can contact me at [babekasadli@hotmail.com](mailto:babekasadli@hotmail.com)
+*   ✉️  You can contact me at [babekasadli@gmail.com](mailto:babekasadli@gmail.com)
 ### Socials
                   
                   
