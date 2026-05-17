@@ -1,7 +1,6 @@
 Hi 👋 My name is Babek
 ======================
 
-Software developer
 -------------------
 
 *   🌍  I'm based in Azerbaijan
